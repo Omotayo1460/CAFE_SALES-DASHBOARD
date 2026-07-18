@@ -4,7 +4,7 @@
 This business intelligence solution maps localized revenue metrics, transactional trends, and operational KPIs into a presentation-ready interface to help franchise owners optimize performance. The end-to-end pipeline involved auditing and cleaning raw transaction registries and architecting an advanced financial layout tracking $88,952 in total revenue across 10,000 transactions.
 
 ## 📊 Interactive Dashboard Access
-👉 **[Click Here to Interact with the Live Cafe Sales Dashboard](https://1drv.ms/x/c/f397b496bd5cbbd3/IQCcb1l9IeD-T4J2F5Zt1QB9AarHoPe-fmoC6EDADXnitp4)** *(OneDrive Embedded View)*
+👉 **[Click Here to Interact with the Live Cafe Sales Dashboard](https://1drv.ms/x/c/f397b496bd5cbbd3/IQCcb1l9IeD-T4J2F5Zt1QB9AarHoPe-fmoC6EDADXnitp4?e=TBUJwZ)** *(OneDrive Embedded View)*
 
 ---
 
