@@ -1,7 +1,7 @@
 # Enterprise Cafe Sales Dashboard & Analytics Suite
 
 ## 📌 Project Overview
-This business intelligence solution maps localized revenue metrics, transactional trends, and operational KPIs into a presentation-ready interface to help franchise owners optimize performance. The end-to-end pipeline involved auditing and cleaning raw transaction registries and architecting an advanced financial layout tracking $73,115 in total revenue across 8,239 transactions.
+This business intelligence solution maps localized revenue metrics, transactional trends, and operational KPIs into a presentation-ready interface to help franchise owners optimize performance. The end-to-end pipeline involved auditing and cleaning raw transaction registries and architecting an advanced financial layout tracking $88,952 in total revenue across 10,000 transactions.
 
 ## 📊 Interactive Dashboard Access
 👉 **[Click Here to Interact with the Live Cafe Sales Dashboard](https://1drv.ms/x/c/f397b496bd5cbbd3/IQCcb1l9IeD-T4J2F5Zt1QB9AarHoPe-fmoC6EDADXnitp4)** *(OneDrive Embedded View)*
@@ -18,7 +18,7 @@ This business intelligence solution maps localized revenue metrics, transactiona
 ## 🚀 Key Insights & Analytical Achievements
 
 * **Inventory & Revenue Targeting (Pareto Framework):** Engineered an advanced Pareto analysis framework ("Revenue Contribution By Product") combining a cumulative percentage trend line with localized product itemization (Salad, Sandwich, Smoothie) to isolate the core high-margin products driving the highest revenue yields.
-* **Operational Flow & Trend Mapping:** Formulated top-level KPI metrics tracking transaction fluctuations alongside daily/weekly intervals, proving that weekends (Friday & Saturday) yielded peak performance with an overall average ticket spend value of $8.87.
+* **Operational Flow & Trend Mapping:** Formulated top-level KPI metrics tracking transaction fluctuations alongside daily/weekly intervals, proving that weekends (Friday & Saturday) yielded peak performance with an overall average ticket spend value of $8.90.
 * **Advanced Multi-Tiered Filtering:** Implemented a robust 6-tier interactive slicing system (including Timeframes, Location Type, Payment Method, and Spend Categories) using advanced spreadsheet filtering logic to isolate user-driven metrics instantly.
 * **Customer Behavior Segmentation:** Grouped customer transactions into defined high, medium, and low spending brackets to assist management in optimizing targeted marketing initiatives.
 
